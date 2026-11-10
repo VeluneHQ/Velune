@@ -1,6 +1,6 @@
 # Velune visual guide
 
-These images accompany the [product guide](../README.md) and its [Russian edition](../README.ru.md).
+These images accompany the [product guide](../README.md).
 
 - `cover.png` — Velune brand cover.
 - `overview.jpg` — desktop overview of the product modules.

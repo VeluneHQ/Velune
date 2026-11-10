@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><strong>A workspace for moving, distributing and scheduling tokens on Elysium.</strong></p>
-<p align="center">English · <a href="README.ru.md">Русский</a><br>
+<p align="center">
 <a href="#why-velune">Why Velune</a> · <a href="#choose-your-task">Choose your task</a> · <a href="#how-batch-send-works">How it works</a> · <a href="#see-the-product">Screenshots</a> · <a href="#questions">FAQ</a></p>
 
 > **Product preview.** This repository introduces Velune through documentation and actual interface screenshots. A public application URL has not been announced here. It is not an installable application or a token sale.
@@ -163,4 +163,4 @@ Velune is an independent interface for the Elysium ecosystem. This page does not
 
 **Velune — Every token. A clear path.**
 
-[Back to top](#) · [Русская версия](README.ru.md) · [Repository contents and rights](NOTICE.md)
+[Back to top](#) · [Repository contents and rights](NOTICE.md)

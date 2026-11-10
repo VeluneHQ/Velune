@@ -1,0 +1,13 @@
+# Publish only this explicit documentation allowlist.
+/*
+!/.gitignore
+!/README.md
+!/README.ru.md
+!/NOTICE.md
+!/assets/
+/assets/*
+!/assets/README.md
+!/assets/cover.png
+!/assets/overview.jpg
+!/assets/batch-send.jpg
+!/assets/mobile.jpg
